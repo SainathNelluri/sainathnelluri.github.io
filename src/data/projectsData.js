@@ -12,17 +12,17 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'Netflix-Clone-CI-CD-pipeline',
-        projectDesc: 'This project is a fleet management system that allows users to obtain relevant information about fleet rental and operations.',
-        tags: ['DevOps', '',''],
+        projectDesc: 'Orchestrated the deployment of a feature-rich Netflix clone application into a Kubernetes cluster, replicating the original platform’s functionalities using various DevOps tools.',
+        tags: ['DevOps', 'Docker','Kubernetes','CI/CD'],
         code: 'https://github.com/SainathNelluri/Netflix-Clone-CI-CD-pipeline',
         demo: 'https://github.com/SainathNelluri/Netflix-Clone-CI-CD-pipeline',
         image: two
     },
     {
         id: 2,
-        projectName: 'Event Management',
-        projectDesc: 'This project aims to build an event management system that consolidates all current and upcoming events of a city',
-        tags: ['Java', 'Spring Boot', 'React'],
+        projectName: 'MRI Image Segmentation using Python and U-Net',
+        projectDesc: 'Developed an MRI tumor detection project using Python and U-Net',
+        tags: ['Python', 'Google Collab', 'U-Net'],
         code: '',
         //github.com/sainathnelluri/EventManagement',
         demo:'', //'https://github.com/sainathnelluri',

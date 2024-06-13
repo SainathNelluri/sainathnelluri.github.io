@@ -6,14 +6,13 @@
     'CSS',
     'React',
     'MySQL',
-    'SQL',
     'Git',
     'Angular',
     'Docker',
     'Azure',
     'Python',
     'Nginx',
-    
+
     ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

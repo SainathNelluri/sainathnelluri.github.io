@@ -2,7 +2,7 @@ export const experienceData = [
     {
         id: 1,
         company: 'Texas Tech University',
-        jobtitle: 'Student Assistant',
+        jobtitle: 'Graduate Student Assistant',
         startYear: 'Jan 2023',
         endYear: 'May 2024'
     },
