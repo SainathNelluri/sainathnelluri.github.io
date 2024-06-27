@@ -4,21 +4,21 @@ export const achievementData = {
         {
             id : 1,
             title : 'AWS Certified Solutions Architect – Associate',
-            details : 'demonstrating proficiency in designing and implementing scalable, cost-effective, and secure cloud solutions on AWS, contributing to enhanced operational efficiency and reliability for organizational cloud deployments.',
+            details : 'demonstrating proficiency in designing and implementing scalable, cost-effective, and secure cloud solutions on AWS, contributing to enhanced operational efficiency and reliability.',
             date : 'June, 2024',
             image : 'https://www.credly.com/badges/e0888f31-bf47-4a6e-b742-968c8e12923f/public_url'
                                 },
         {
             id : 2,
             title : ' ❖	Azure AI Fundamentals ',
-            details : 'showcasing proficiency in leveraging Azure AI services to build AI solutions that drive business innovation and efficiency, contributing to enhanced decision-making capabilities and customer satisfaction through advanced AI technologies on the Azure platform.',
+            details : 'showcasing proficiency in leveraging Azure AI services to build AI solutions that drive business innovation and efficiency, contributing to enhanced decision-making capabilities.',
             date : 'June, 2024',
             image : 'https://learn.microsoft.com/en-us/users/sainathnelluri-7389/credentials/3a0aea2c84b06c05?ref=https%3A%2F%2Fwww.linkedin.com%2F'
         },
         {
             id : 3,
             title : 'IBM DevOps and Software Engineering',
-            details : 'gaining practical skills in implementing DevOps practices, CI/CD pipelines, and agile methodologies using IBM tools and technologies, enhancing team collaboration and accelerating software delivery cycles for improved project outcomes.',
+            details : 'gaining practical skills in implementing DevOps practices, CI/CD pipelines, and agile methodologies using IBM tools and technologies and enhancing team collaboration.',
             date : 'May, 2024',
             image : 'https://www.coursera.org/account/accomplishments/specialization/VB7XZS3BNKS9' 
         }
