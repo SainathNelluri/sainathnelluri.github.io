@@ -16,7 +16,7 @@ export const experienceData = [
     {
         id: 3,
         company: 'Cognizant',
-        jobtitle: 'Program Development Analyst Intern',
+        jobtitle: 'Programmer Analyst Trainee',
         startYear: 'Jan 2021',
         endYear: 'May 2021'
     },
